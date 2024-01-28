@@ -6,3 +6,5 @@
  RIGHT MOUSE BUTTON - used to remove sand blocks, pauses time while held.
 
  Install requirements.txt file with pip for all python modules.
+
+ Install command: pip install -r requirements.txt
